@@ -1,0 +1,59 @@
+about:
+  description: sqlfmt formats your dbt SQL files so you don't have to
+  license: NOASSERTION
+  homepage: https://sqlfmt.com
+  head: ffb943c
+  archived: false
+  latestVersion: v0.32.0
+  collectedAt: 2026-08-29T07:05:00Z
+timeline:
+  created: 2021-07-19
+  lastCommit: 2026-08-28
+  lastRelease: 2026-08-10
+popularity:
+  star: 547
+  watcher: 2
+  fork: 33
+  release: 59
+  contributor: 18
+  pullRequest: 64
+  issue: 252
+language:
+  Python: 444767
+  PLpgSQL: 2254
+  Makefile: 1190
+  Dockerfile: 151
+totalLine: 448362
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 2
+    mergedPR: 19
+    openPR: 1
+    closedIssue: 1
+    openIssue: 0
+    commit: 22
+  last90d:
+    since: 2026-05-31
+    release: 2
+    mergedPR: 45
+    openPR: 1
+    closedIssue: 2
+    openIssue: 0
+    commit: 46
+  last180d:
+    since: 2026-03-02
+    release: 3
+    mergedPR: 86
+    openPR: 2
+    closedIssue: 2
+    openIssue: 1
+    commit: 87
+  last360d:
+    since: 2025-09-03
+    release: 7
+    mergedPR: 134
+    openPR: 2
+    closedIssue: 13
+    openIssue: 3
+    commit: 137

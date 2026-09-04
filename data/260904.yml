@@ -7,7 +7,7 @@ about:
   head: 514866b
   archived: false
   latestVersion: v0.32.0
-  collectedAt: 2026-09-04T19:34:38Z
+  collectedAt: 2026-09-04T20:57:13Z
 timeline:
   created: 2021-07-19
   lastCommit: 2026-09-04
@@ -83,6 +83,44 @@ total:
   openIssue: 35
   commit: 588
 ---
+path: /home/runner/.x-repo/github.com/tconbeer/sqlfmt
+collectedAt: 2026-09-04T20:57:15Z
+loc:
+  Python:
+    code: 11355
+    comments: 345
+    blanks: 1636
+    files: 65
+  Sql:
+    code: 5977
+    comments: 322
+    blanks: 559
+    files: 141
+  Toml:
+    code: 158
+    comments: 2
+    blanks: 54
+    files: 7
+  Makefile:
+    code: 35
+    comments: 0
+    blanks: 6
+    files: 1
+  Dockerfile:
+    code: 7
+    comments: 0
+    blanks: 3
+    files: 1
+  Markdown:
+    code: 0
+    comments: 642
+    blanks: 355
+    files: 3
+total:
+  code: 17558
+  comments: 1311
+  blanks: 2613
+  files: 218
 ---
 date: "2026-08-24"
 repo:

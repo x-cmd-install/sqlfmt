@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 72726,
       "digest": "sha256:716cfa4910c318a7b905002f73c95a0ef6bdc4a23e79b6fa2ad1c0f6aab3ee46",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-08-10T15:43:03Z",
       "updated_at": "2026-08-10T15:43:03Z",
       "browser_download_url": "https://github.com/tconbeer/sqlfmt/releases/download/v0.32.0/shandy_sqlfmt-0.32.0-py3-none-any.whl"

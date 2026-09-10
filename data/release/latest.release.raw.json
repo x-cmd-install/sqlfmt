@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 10767,
       "digest": "sha256:164501c8d331fc9ee9ea7b543867e523b2bc8bebd42d78d0dc317cc3e263bc4d",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-08-10T15:43:03Z",
       "updated_at": "2026-08-10T15:43:03Z",
       "browser_download_url": "https://github.com/tconbeer/sqlfmt/releases/download/v0.32.0/LICENSE"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 72148,
       "digest": "sha256:f1e93928659f8159e399f189050b60dbe2135812eccfc1566b04644fb0dc3304",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-08-10T15:43:03Z",
       "updated_at": "2026-08-10T15:43:03Z",
       "browser_download_url": "https://github.com/tconbeer/sqlfmt/releases/download/v0.32.0/shandy_sqlfmt-0.32.0.tar.gz"

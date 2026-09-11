@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 16 | 1 | 1 | 0 | 15 |
-| last60d | 2026-07-12 | 2 | 36 | 2 | 2 | 0 | 37 |
-| 90d | 2026-06-12 | 2 | 48 | 2 | 2 | 0 | 49 |
-| last180d | 2026-03-14 | 3 | 85 | 3 | 2 | 1 | 86 |
-| 360d | 2025-09-15 | 7 | 142 | 3 | 13 | 3 | 145 |
-| last720d | 2024-09-20 | 12 | 167 | 3 | 45 | 7 | 180 |
+| 30d | 2026-08-12 | 0 | 16 | 1 | 1 | 0 | 15 |
+| last60d | 2026-07-13 | 2 | 36 | 2 | 1 | 0 | 37 |
+| 90d | 2026-06-13 | 2 | 48 | 2 | 2 | 0 | 49 |
+| last180d | 2026-03-15 | 3 | 85 | 3 | 2 | 1 | 86 |
+| 360d | 2025-09-16 | 7 | 142 | 3 | 13 | 3 | 145 |
+| last720d | 2024-09-21 | 12 | 167 | 3 | 45 | 7 | 180 |
 
 ## Release assets
 
@@ -92,4 +92,4 @@ Install metadata for sqlfmt lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T23:34:38Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T06:22:45Z._

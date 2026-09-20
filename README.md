@@ -4,7 +4,7 @@
 
 sqlfmt formats your dbt SQL files so you don't have to
 
-![sqlfmt](https://repo.x-cmd.io/sqlfmt.svg)
+[![x-cmd/install — sqlfmt Code Quality Monitoring Repo Card](https://repo.x-cmd.io/sqlfmt.svg)](https://x-cmd.com/install/sqlfmt)
 
 ## Install
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 547 · **Forks**: 34 · **Open issues**: 252 · **Contributors**: 18
+- **Stars**: 548 · **Forks**: 34 · **Open issues**: 252 · **Contributors**: 18
 
 ## Totals (cumulative)
 
-- **Releases**: 59 · **Merged PRs**: 549 · **Open PRs**: 3 · **Closed issues**: 217 · **Open issues**: 35 · **Commits**: 597
+- **Releases**: 59 · **Merged PRs**: 550 · **Open PRs**: 3 · **Closed issues**: 217 · **Open issues**: 35 · **Commits**: 598
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 15 | 1 | 1 | 0 | 15 |
-| last60d | 2026-07-20 | 2 | 40 | 2 | 1 | 0 | 41 |
-| 90d | 2026-06-20 | 2 | 50 | 2 | 2 | 0 | 51 |
-| last180d | 2026-03-22 | 3 | 88 | 3 | 2 | 1 | 89 |
-| 360d | 2025-09-23 | 7 | 147 | 3 | 13 | 3 | 150 |
-| last720d | 2024-09-28 | 12 | 172 | 3 | 45 | 7 | 185 |
+| 30d | 2026-08-21 | 0 | 16 | 1 | 1 | 0 | 15 |
+| last60d | 2026-07-22 | 2 | 41 | 2 | 1 | 0 | 36 |
+| 90d | 2026-06-22 | 2 | 51 | 2 | 2 | 0 | 50 |
+| last180d | 2026-03-24 | 3 | 88 | 3 | 2 | 1 | 87 |
+| 360d | 2025-09-25 | 7 | 148 | 3 | 13 | 3 | 151 |
+| last720d | 2024-09-30 | 12 | 173 | 3 | 45 | 7 | 186 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for sqlfmt lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:32:38Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:26:02Z._

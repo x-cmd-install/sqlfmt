@@ -4,7 +4,7 @@
 
 sqlfmt formats your dbt SQL files so you don't have to
 
-[![x-cmd/install — sqlfmt Code Quality Monitoring Repo Card](https://repo.x-cmd.io/sqlfmt.svg)](https://x-cmd.com/install/sqlfmt)
+[![x-cmd/install — sqlfmt Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/sqlfmt.svg)](https://x-cmd.com/install/sqlfmt)
 
 ## Install
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 19 | 1 | 1 | 0 | 18 |
-| last60d | 2026-07-24 | 2 | 44 | 2 | 1 | 0 | 39 |
-| 90d | 2026-06-24 | 2 | 53 | 2 | 2 | 0 | 53 |
-| last180d | 2026-03-26 | 3 | 90 | 3 | 2 | 1 | 90 |
-| 360d | 2025-09-27 | 7 | 151 | 3 | 12 | 3 | 154 |
-| last720d | 2024-10-02 | 12 | 176 | 3 | 45 | 7 | 189 |
+| 30d | 2026-08-24 | 0 | 18 | 1 | 1 | 0 | 18 |
+| last60d | 2026-07-25 | 2 | 40 | 2 | 1 | 0 | 39 |
+| 90d | 2026-06-25 | 2 | 53 | 2 | 2 | 0 | 53 |
+| last180d | 2026-03-27 | 3 | 89 | 3 | 2 | 1 | 90 |
+| 360d | 2025-09-28 | 7 | 151 | 3 | 12 | 3 | 154 |
+| last720d | 2024-10-03 | 12 | 176 | 3 | 45 | 7 | 189 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for sqlfmt lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:44:35Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:54:25Z._

@@ -30,7 +30,7 @@ x install sqlfmt
 
 评分最低的几项:
 
-- **Code-Review** (0/10) — Found 2/27 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 2/29 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -58,12 +58,12 @@ x install sqlfmt
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-24 | 0 | 18 | 1 | 1 | 0 | 18 |
-| last60d | 2026-07-25 | 2 | 40 | 2 | 1 | 0 | 39 |
-| 90d | 2026-06-25 | 2 | 53 | 2 | 2 | 0 | 53 |
-| last180d | 2026-03-27 | 3 | 89 | 3 | 2 | 1 | 90 |
-| 360d | 2025-09-28 | 7 | 151 | 3 | 12 | 3 | 154 |
-| last720d | 2024-10-03 | 12 | 176 | 3 | 45 | 7 | 189 |
+| 30d | 2026-08-25 | 0 | 18 | 1 | 0 | 0 | 18 |
+| last60d | 2026-07-26 | 2 | 38 | 2 | 1 | 0 | 39 |
+| 90d | 2026-06-26 | 2 | 53 | 2 | 2 | 0 | 53 |
+| last180d | 2026-03-28 | 3 | 89 | 3 | 2 | 1 | 90 |
+| 360d | 2025-09-29 | 7 | 151 | 3 | 12 | 3 | 154 |
+| last720d | 2024-10-04 | 12 | 176 | 3 | 45 | 7 | 189 |
 
 ## Release 资产
 
@@ -82,4 +82,4 @@ sqlfmt 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260923.yml` · 2026-09-23T06:54:25Z._
+_数据快照: `data/card/260924.yml` · 2026-09-24T06:08:28Z._

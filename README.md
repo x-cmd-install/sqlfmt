@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.32.0` (2026-08-10)
-- **Last commit**: 2026-09-21
+- **Last commit**: 2026-09-24
 - **Assets in release**: 3
 
 ## Popularity
 
-- **Stars**: 547 · **Forks**: 34 · **Open issues**: 252 · **Contributors**: 18
+- **Stars**: 548 · **Forks**: 34 · **Open issues**: 252 · **Contributors**: 18
 
 ## Totals (cumulative)
 
-- **Releases**: 59 · **Merged PRs**: 553 · **Open PRs**: 3 · **Closed issues**: 217 · **Open issues**: 35 · **Commits**: 601
+- **Releases**: 59 · **Merged PRs**: 554 · **Open PRs**: 3 · **Closed issues**: 217 · **Open issues**: 35 · **Commits**: 602
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-25 | 0 | 18 | 1 | 0 | 0 | 18 |
-| last60d | 2026-07-26 | 2 | 38 | 2 | 1 | 0 | 39 |
-| 90d | 2026-06-26 | 2 | 53 | 2 | 2 | 0 | 53 |
-| last180d | 2026-03-28 | 3 | 89 | 3 | 2 | 1 | 90 |
-| 360d | 2025-09-29 | 7 | 151 | 3 | 12 | 3 | 154 |
-| last720d | 2024-10-04 | 12 | 176 | 3 | 45 | 7 | 189 |
+| 30d | 2026-08-26 | 0 | 19 | 1 | 0 | 0 | 19 |
+| last60d | 2026-07-27 | 2 | 39 | 2 | 1 | 0 | 40 |
+| 90d | 2026-06-27 | 2 | 53 | 2 | 2 | 0 | 54 |
+| last180d | 2026-03-29 | 3 | 90 | 3 | 2 | 1 | 91 |
+| 360d | 2025-09-30 | 7 | 152 | 3 | 12 | 3 | 155 |
+| last720d | 2024-10-05 | 12 | 177 | 3 | 45 | 7 | 190 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for sqlfmt lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260924.yml` · 2026-09-24T06:08:27Z._
+_Snapshot: `data/card/260925.yml` · 2026-09-25T06:18:52Z._

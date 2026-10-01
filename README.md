@@ -30,7 +30,7 @@ Overall score: **4.2 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 2/29 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-31 | 0 | 18 | 1 | 0 | 0 | 18 |
-| last60d | 2026-08-01 | 2 | 39 | 2 | 1 | 0 | 36 |
-| 90d | 2026-07-02 | 2 | 55 | 2 | 2 | 0 | 55 |
-| last180d | 2026-04-03 | 3 | 92 | 3 | 2 | 1 | 93 |
-| 360d | 2025-10-05 | 7 | 155 | 3 | 11 | 3 | 158 |
-| last720d | 2024-10-10 | 12 | 180 | 3 | 45 | 7 | 193 |
+| 30d | 2026-09-01 | 0 | 18 | 0 | 0 | 0 | 18 |
+| last60d | 2026-08-02 | 2 | 39 | 2 | 1 | 0 | 36 |
+| 90d | 2026-07-03 | 2 | 55 | 2 | 2 | 0 | 55 |
+| last180d | 2026-04-04 | 3 | 92 | 3 | 2 | 1 | 93 |
+| 360d | 2025-10-06 | 7 | 155 | 3 | 11 | 3 | 158 |
+| last720d | 2024-10-11 | 12 | 180 | 3 | 45 | 7 | 193 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for sqlfmt lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260930.yml` · 2026-09-30T07:02:48Z._
+_Snapshot: `data/card/261001.yml` · 2026-10-01T07:20:56Z._

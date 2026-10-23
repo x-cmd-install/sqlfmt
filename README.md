@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.32.0` (2026-08-10)
-- **Last commit**: 2026-10-19
+- **Last commit**: 2026-10-23
 - **Assets in release**: 3
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 59 · **Merged PRs**: 571 · **Open PRs**: 7 · **Closed issues**: 217 · **Open issues**: 35 · **Commits**: 619
+- **Releases**: 59 · **Merged PRs**: 573 · **Open PRs**: 7 · **Closed issues**: 217 · **Open issues**: 35 · **Commits**: 621
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 0 | 18 | 4 | 0 | 0 | 17 |
-| last60d | 2026-08-22 | 0 | 37 | 5 | 1 | 0 | 36 |
-| 90d | 2026-07-23 | 2 | 62 | 6 | 1 | 0 | 59 |
-| last180d | 2026-04-24 | 3 | 98 | 7 | 2 | 1 | 98 |
-| 360d | 2025-10-26 | 4 | 158 | 7 | 8 | 3 | 159 |
-| last720d | 2024-10-31 | 12 | 194 | 7 | 43 | 6 | 207 |
+| 30d | 2026-09-23 | 0 | 20 | 4 | 0 | 0 | 19 |
+| last60d | 2026-08-24 | 0 | 38 | 5 | 1 | 0 | 38 |
+| 90d | 2026-07-25 | 2 | 60 | 6 | 1 | 0 | 61 |
+| last180d | 2026-04-26 | 3 | 100 | 7 | 2 | 1 | 100 |
+| 360d | 2025-10-28 | 4 | 160 | 7 | 8 | 3 | 161 |
+| last720d | 2024-11-02 | 12 | 196 | 7 | 43 | 6 | 209 |
 
 ## Release assets
 
@@ -72,6 +72,16 @@ Lowest-scoring checks:
 | [LICENSE](https://github.com/tconbeer/sqlfmt/releases/download/v0.32.0/LICENSE) | 10.5 KiB | `other` |
 | [shandy_sqlfmt-0.32.0-py3-none-any.whl](https://github.com/tconbeer/sqlfmt/releases/download/v0.32.0/shandy_sqlfmt-0.32.0-py3-none-any.whl) | 71.0 KiB | `other` |
 | [shandy_sqlfmt-0.32.0.tar.gz](https://github.com/tconbeer/sqlfmt/releases/download/v0.32.0/shandy_sqlfmt-0.32.0.tar.gz) | 70.5 KiB | `native/unknown` |
+
+## Distribution status
+
+Reported by **9** distros on [repology.org](https://repology.org/project/sqlfmt). **6** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `0.32.0` | ✅ latest |
+| Debian 14 | `0.32.0` | ✅ latest |
+| Homebrew | `0.5.0` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -82,4 +92,4 @@ Install metadata for sqlfmt lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T06:01:36Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T06:03:46Z._

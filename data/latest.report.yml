@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.32.0"
   latestRelease: "v0.32.0"
   latestPrerelease: ""
-  collectedAt: 2026-10-30T07:08:54Z
+  collectedAt: 2026-10-31T06:56:22Z
 timeline:
   created: 2021-07-19
   lastCommit: 2026-10-30
@@ -30,7 +30,7 @@ language:
 totalBytes: 448362
 recent:
   last30d:
-    since: 2026-09-30
+    since: 2026-10-01
     release: 0
     mergedPR: 22
     openPR: 4
@@ -38,15 +38,15 @@ recent:
     openIssue: 0
     commit: 22
   last60d:
-    since: 2026-08-31
+    since: 2026-09-01
     release: 0
     mergedPR: 40
-    openPR: 5
+    openPR: 4
     closedIssue: 0
     openIssue: 0
     commit: 40
   last90d:
-    since: 2026-08-01
+    since: 2026-08-02
     release: 2
     mergedPR: 61
     openPR: 6
@@ -54,15 +54,15 @@ recent:
     openIssue: 0
     commit: 64
   last180d:
-    since: 2026-05-03
+    since: 2026-05-04
     release: 3
-    mergedPR: 102
+    mergedPR: 99
     openPR: 7
     closedIssue: 2
     openIssue: 1
     commit: 100
   last360d:
-    since: 2025-11-04
+    since: 2025-11-05
     release: 4
     mergedPR: 165
     openPR: 7
@@ -70,7 +70,7 @@ recent:
     openIssue: 3
     commit: 167
   last720d:
-    since: 2024-11-09
+    since: 2024-11-10
     release: 12
     mergedPR: 202
     openPR: 7
@@ -86,7 +86,7 @@ total:
   commit: 627
 ---
 path: /home/runner/.x-repo/github.com/tconbeer/sqlfmt
-collectedAt: 2026-10-30T07:08:55Z
+collectedAt: 2026-10-31T06:56:23Z
 loc:
   Python:
     code: 11355

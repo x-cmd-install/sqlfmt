@@ -102,3 +102,16 @@
     - daniel@debian.org
   categories:
     - universe/python
+- repo: ubuntu_27_04
+  subrepo: tenacious/universe
+  srcname: sqlfmt
+  binnames:
+    - python3-sqlfmt
+  visiblename: sqlfmt
+  version: 0.32.0
+  origversion: 0.32.0-1
+  status: newest
+  maintainers:
+    - daniel@debian.org
+  categories:
+    - universe/python

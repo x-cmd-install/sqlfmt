@@ -2,15 +2,15 @@ about:
   description: "sqlfmt formats your dbt SQL files so you don't have to"
   license: NOASSERTION
   homepage: https://sqlfmt.com
-  head: e5f86c5
+  head: 7169378
   archived: false
   latestVersion: "v0.32.0"
   latestRelease: "v0.32.0"
   latestPrerelease: ""
-  collectedAt: 2026-11-27T10:35:15Z
+  collectedAt: 2026-11-28T08:37:21Z
 timeline:
   created: 2021-07-19
-  lastCommit: 2026-11-23
+  lastCommit: 2026-11-28
   lastVersion: 2026-08-10
   lastRelease: 2026-08-10
   lastPrerelease: 
@@ -20,7 +20,7 @@ popularity:
   fork: 43
   release: 59
   contributor: 18
-  pullRequest: 664
+  pullRequest: 665
   issue: 252
 language:
   Python: 444767
@@ -30,63 +30,63 @@ language:
 totalBytes: 448362
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 0
-    mergedPR: 14
+    mergedPR: 15
     openPR: 2
     closedIssue: 0
     openIssue: 0
-    commit: 12
+    commit: 13
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 0
-    mergedPR: 35
+    mergedPR: 36
     openPR: 6
     closedIssue: 0
     openIssue: 0
-    commit: 33
+    commit: 34
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 0
-    mergedPR: 56
+    mergedPR: 57
     openPR: 7
     closedIssue: 0
     openIssue: 0
-    commit: 54
+    commit: 55
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 2
     mergedPR: 101
     openPR: 8
     closedIssue: 2
     openIssue: 0
-    commit: 99
+    commit: 100
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 4
-    mergedPR: 176
+    mergedPR: 177
     openPR: 9
     closedIssue: 3
     openIssue: 3
-    commit: 178
+    commit: 179
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 10
-    mergedPR: 207
+    mergedPR: 208
     openPR: 9
     closedIssue: 36
     openIssue: 6
-    commit: 220
+    commit: 221
 total:
   release: 59
-  mergedPR: 592
+  mergedPR: 593
   openPR: 9
   closedIssue: 217
   openIssue: 35
-  commit: 640
+  commit: 641
 ---
 path: /home/runner/.x-repo/github.com/tconbeer/sqlfmt
-collectedAt: 2026-11-27T10:35:16Z
+collectedAt: 2026-11-28T08:37:22Z
 loc:
   Python:
     code: 11355
